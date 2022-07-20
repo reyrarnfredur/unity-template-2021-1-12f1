@@ -13,4 +13,4 @@
  
  Please, also note the folder structure is weird as fuck:
 
-https://github.com/reyrarnfredur/unity-template-2021-1-12f1/blob/main/folder-structure-screenshot.png
+![Weird AF folder structure](https://github.com/reyrarnfredur/unity-template-2021-1-12f1/blob/main/folder-structure-screenshot.png)

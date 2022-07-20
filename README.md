@@ -5,11 +5,11 @@
  
  Third party packages added are:
  
- -NaughtyAttributes
- -DOTween
- -Hierarchy 2
- -PathCreator
- -TextMeshPRO
+ - NaughtyAttributes
+ - DOTween
+ - Hierarchy 2
+ - PathCreator
+ - TextMeshPRO
  
  Please, also note the folder structure is weird as fuck:
 
